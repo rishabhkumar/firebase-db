@@ -1,11 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "delhi-dl-in": {
+    "temperature": 30,
+    "conditions": "Hot"
+  },
+  "mumbai-mh-in": {
+    "temperature": 26,
+    "conditions": "Rainy"
   }
 }
