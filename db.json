@@ -1,6 +1,3 @@
 {
-  "delhi-dl-in": {
-    "temperature": 30,
-    "conditions": "Hot"
-  }
+  "delhi-dl-in": "Hot"
 }
