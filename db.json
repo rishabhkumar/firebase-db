@@ -7,12 +7,12 @@
 	},
 	{
 		"id": "mumbai-mh-in",
-		"temperature": "26"
+		"temperature": "26",
 		"conditions": "Rain"
 	},
 	{
 		"id": "jaipur-rj-in",
-		"temperature": "27"
+		"temperature": "27",
 		"conditions": "Mostly Cloudy"
 	}
 
